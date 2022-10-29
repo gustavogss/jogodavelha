@@ -14,3 +14,4 @@
 
 ### Deploy 🎮
 - [Clique aqui e divirta-se](https://gustavogss.github.io/jogodavelha/)
+<img src="https://github.com/gustavogss/jogodavelha/blob/master/aplica%C3%A7%C3%A3o.png" />
